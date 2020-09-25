@@ -6,13 +6,5 @@
     "host": "127.0.0.1",
     "dialect": "postgres",
     "operatorsAliases": false
-  },
-  "test": {
-    "username": "postgres",
-    "password": "secret",
-    "database": "booking_services",
-    "host": "127.0.0.1",
-    "dialect": "postgres",
-    "operatorsAliases": false
-  },
+  }
 }
